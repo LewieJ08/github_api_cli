@@ -22,5 +22,9 @@ Enter Github username to fetch data
 ```bash
 GitHub-Activity> <username>
 ```
+To exit the program use:
+```bash
+GitHub-Activity> exit
+```
 ## Roadmap.sh Project:
 https://roadmap.sh/projects/github-user-activity
