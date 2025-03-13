@@ -1,8 +1,7 @@
-import requests 
+import requests  # type: ignore
 import os
 
 def main():
-    os.system("cls")
     while True:
         username = input("GitHub-Activity> ")
         if username == "exit":
