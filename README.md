@@ -4,6 +4,7 @@ A simple app that uses the github API to fetch user data and display it to the u
 ## 🚀 Installation
 
 1. Clone the repository:<br>
+Ensure to use windows Powershell
 ```bash
 git clone https://github.com/LewieJ08/github_api_cli.git 
 cd github_api_cli
